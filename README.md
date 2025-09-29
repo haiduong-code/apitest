@@ -1,3 +1,6 @@
+**Dùng git bash chạy curl**
+
+
 **USER**
 
 **NGƯỜI DÙNG ALICE ĐƯỢC ĐĂNG KÍ THÀNH CÔNG**
